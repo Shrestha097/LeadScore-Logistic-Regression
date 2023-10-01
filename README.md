@@ -11,7 +11,7 @@ Logistic Regression model is built to predict if any professional whose lead is 
     - Precision : 0.723
     - Recall : 0.765
 
-Top 3 Variables :
+## Top 3 Variables :
     - Lead Origin_Lead Add Form
     - Occupation_Working Professional
     - Lead Origin_Lead Import
